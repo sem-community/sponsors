@@ -1,9 +1,81 @@
 {
   "name": " Story Writing Competitions - 2019",
   "list": {
-    "Platinum Sponsors": [],
+    "Platinum Sponsors": [
+      {
+        "number": 4,
+        "amount": 5000,
+        "id": "pay_DnzMVyGKADPjBW",
+        "name": "Kirti siruvuri",
+        "about": ""
+      },
+      {
+        "number": 6,
+        "amount": 5000,
+        "id": "pay_DtyvFoBdKbNvXe",
+        "name": "Rama Krishna Residential Public School - 1997 X Batch",
+        "about": ""
+      }
+    ],
     "Gold Sponsors": [],
-    "Silver Sponsors": [],
-    "Sponsors": []
+    "Silver Sponsors": [
+      {
+        "number": 2,
+        "amount": 2000,
+        "id": "pay_DmAfnZZJCFrn5m",
+        "name": "Chandrasekhar YVN",
+        "about": ""
+      },
+      {
+        "number": 3,
+        "amount": 1500,
+        "id": "pay_DmBWIpnvt3bfmQ",
+        "name": "Ashok Kumar",
+        "about": ""
+      },
+      {
+        "number": 5,
+        "amount": 1500,
+        "id": "pay_DtwLYlBy44MPJi",
+        "name": "Gogada V V Satyanarayana",
+        "about": ""
+      },
+      {
+        "number": 7,
+        "amount": 1500,
+        "id": "pay_DujmEi1pdhIauz",
+        "name": "Aditya",
+        "about": ""
+      },
+      {
+        "number": 8,
+        "amount": 1500,
+        "id": "pay_Dvh2ZyThuwt7kH",
+        "name": "Balaji Murugesan",
+        "about": ""
+      }
+    ],
+    "Sponsors": [
+      {
+        "number": 1,
+        "amount": 1000,
+        "id": "pay_Dm2nnhsJFC3eTm",
+        "name": "Rathan",
+        "about": ""
+      },
+      {
+        "number": 9,
+        "amount": 1000,
+        "id": "GaveToSurya",
+        "name": "Manu Korulla",
+        "about": ""
+      },
+      {
+        "number": 0,
+        "amount": 0,
+        "name": "",
+        "about": ""
+      }
+    ]
   }
 }
