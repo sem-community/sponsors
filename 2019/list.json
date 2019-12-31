@@ -1,12 +1,28 @@
 {
   "name": " Story Writing Competitions - 2019",
+  "amount": 68111,
+  "total": 18,
   "list": {
     "Platinum Sponsors": [
+      {
+        "number": 17,
+        "amount": 25000,
+        "id": "pay_Dyhg1wQ62Sgv6z",
+        "name": "Suresh Garapati",
+        "about": ""
+      },
+      {
+        "number": 14,
+        "amount": 6111,
+        "id": "pay_DyR0CQgSm1XseH",
+        "name": "NIRANJAN RENATI",
+        "about": ""
+      },
       {
         "number": 4,
         "amount": 5000,
         "id": "pay_DnzMVyGKADPjBW",
-        "name": "Kirti siruvuri",
+        "name": "Kirti Siruvuri",
         "about": ""
       },
       {
@@ -14,6 +30,20 @@
         "amount": 5000,
         "id": "pay_DtyvFoBdKbNvXe",
         "name": "Rama Krishna Residential Public School - 1997 X Batch",
+        "about": ""
+      },
+      {
+        "number": 10,
+        "amount": 5000,
+        "id": "pay_DwgOcuomonXqEf",
+        "name": "Swapnik Kota",
+        "about": ""
+      },
+      {
+        "number": 12,
+        "amount": 5000,
+        "id": "pay_DyKmxhlNnLG4Be",
+        "name": "M Krishna Murthy",
         "about": ""
       }
     ],
@@ -53,6 +83,34 @@
         "id": "pay_Dvh2ZyThuwt7kH",
         "name": "Balaji Murugesan",
         "about": ""
+      },
+      {
+        "number": 11,
+        "amount": 1500,
+        "id": "GaveToSurya",
+        "name": "Sanjeev Reddy",
+        "about": ""
+      },
+      {
+        "number": 13,
+        "amount": 1500,
+        "id": "pay_DyQKosbt2GKf7h",
+        "name": "రోహిణి కుమార్ బర్ల",
+        "about": "Other people's opinions matter only when you don't have clarity.<br /><a href='vizag.tech/rohini'>vizag.tech/rohini</a>"
+      },
+      {
+        "number": 16,
+        "amount": 1500,
+        "id": "pay_DyXzZTAWZeEnkR",
+        "name": "Arun Kumar Kuppuswamy",
+        "about": ""
+      },
+      {
+        "number": 18,
+        "amount": 1500,
+        "id": "pay_DyiBWOt5gw2OV7",
+        "name": "Nagendiran Ramanathan",
+        "about": ""
       }
     ],
     "Sponsors": [
@@ -68,6 +126,13 @@
         "amount": 1000,
         "id": "GaveToSurya",
         "name": "Manu Korulla",
+        "about": ""
+      },
+      {
+        "number": 15,
+        "amount": 1000,
+        "id": "pay_DyS4bD72kI4qOn",
+        "name": "Arunlal R",
         "about": ""
       },
       {
