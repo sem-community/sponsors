@@ -1,7 +1,7 @@
 {
-  "name": " Story Writing Competitions - 2019",
-  "amount": 68111,
-  "total": 18,
+  "name": "Story Writing Competitions - 2019 Sponsors",
+  "amount": 79611,
+  "total": 22,
   "list": {
     "Platinum Sponsors": [
       {
@@ -15,8 +15,9 @@
         "number": 14,
         "amount": 6111,
         "id": "pay_DyR0CQgSm1XseH",
-        "name": "NIRANJAN RENATI",
-        "about": ""
+        "name": "Niranjan Renati",
+        "photo": "14-profile.jpg",
+        "about": "<a href='https://www.linkedin.com/in/niran101' target='_blank'>LinkedIN</a>"
       },
       {
         "number": 4,
@@ -29,22 +30,41 @@
         "number": 6,
         "amount": 5000,
         "id": "pay_DtyvFoBdKbNvXe",
-        "name": "Rama Krishna Residential Public School - 1997 X Batch",
-        "about": ""
+        "name": "Nirmala Rao",
+        "photo": "6-profile.jpg",
+        "about": "School Amigos - Rama Krishna Residential Public School - 1997 X Batch"
       },
       {
         "number": 10,
         "amount": 5000,
         "id": "pay_DwgOcuomonXqEf",
         "name": "Swapnik Kota",
+        "photo": "10-profile.png",
         "about": ""
       },
       {
+        "fairy": true,
         "number": 12,
         "amount": 5000,
         "id": "pay_DyKmxhlNnLG4Be",
         "name": "M Krishna Murthy",
         "about": ""
+      },
+      {
+        "number": 20,
+        "amount": 5000,
+        "id": "GaveToSurya",
+        "name": "Chinna Rao Siyyadri",
+        "photo": "20-profile.png",
+        "about": ""
+      },
+      {
+        "number": 21,
+        "amount": 5000,
+        "id": "TransferedToBS",
+        "name": "Mana Radio",
+        "photo": "21-profile.png",
+        "about": "We developed the Radio Platform where Content Distributors can stream their content without a need to have any infrastructure at their end."
       }
     ],
     "Gold Sponsors": [],
@@ -53,14 +73,16 @@
         "number": 2,
         "amount": 2000,
         "id": "pay_DmAfnZZJCFrn5m",
-        "name": "Chandrasekhar YVN",
-        "about": ""
+        "name": "YVN Chandrasekhar",
+        "photo": "2-profile.jpg",
+        "about": "Eternal learner.<br />Curious.<br />Eats. Reads. Writes. Sleeps.<br />Works at NSTL, Vizag."
       },
       {
         "number": 3,
         "amount": 1500,
         "id": "pay_DmBWIpnvt3bfmQ",
         "name": "Ashok Kumar",
+        "photo": "3-profile.png",
         "about": ""
       },
       {
@@ -74,7 +96,8 @@
         "number": 7,
         "amount": 1500,
         "id": "pay_DujmEi1pdhIauz",
-        "name": "Aditya",
+        "name": "Aditya Kandarpa",
+        "photo": "7-profile.png",
         "about": ""
       },
       {
@@ -82,6 +105,7 @@
         "amount": 1500,
         "id": "pay_Dvh2ZyThuwt7kH",
         "name": "Balaji Murugesan",
+        "photo": "8-profile.png",
         "about": ""
       },
       {
@@ -89,6 +113,7 @@
         "amount": 1500,
         "id": "GaveToSurya",
         "name": "Sanjeev Reddy",
+        "photo": "11-profile.png",
         "about": ""
       },
       {
@@ -96,6 +121,7 @@
         "amount": 1500,
         "id": "pay_DyQKosbt2GKf7h",
         "name": "రోహిణి కుమార్ బర్ల",
+        "photo": "13-profile.jpg",
         "about": "Other people's opinions matter only when you don't have clarity.<br /><a href='vizag.tech/rohini'>vizag.tech/rohini</a>"
       },
       {
@@ -110,6 +136,30 @@
         "amount": 1500,
         "id": "pay_DyiBWOt5gw2OV7",
         "name": "Nagendiran Ramanathan",
+        "photo": "18-profile.png",
+        "about": ""
+      },
+      {
+        "number": 19,
+        "amount": 1500,
+        "id": "GaveToSurya",
+        "name": "Vivek Sharma",
+        "photo": "19-profile.png",
+        "about": ""
+      },
+      {
+        "number": 22,
+        "amount": 1500,
+        "id": "GaveToSurya",
+        "name": "Cdr AVSN Murthy",
+        "photo": "22-profile.png",
+        "about": ""
+      },
+      {
+        "number": 23,
+        "amount": 1500,
+        "id": "GaveToSurya",
+        "name": "Rajesh Gandreddi",
         "about": ""
       }
     ],
@@ -119,6 +169,7 @@
         "amount": 1000,
         "id": "pay_Dm2nnhsJFC3eTm",
         "name": "Rathan",
+        "photo": "1-profile.png",
         "about": ""
       },
       {
@@ -133,13 +184,15 @@
         "amount": 1000,
         "id": "pay_DyS4bD72kI4qOn",
         "name": "Arunlal R",
+        "photo": "15-profile.png",
         "about": ""
       },
       {
-        "number": 0,
-        "amount": 0,
-        "name": "",
-        "about": ""
+        "number": 24,
+        "amount": 765,
+        "name": "Rishitha Sriya",
+        "photo": "24-profile.png",
+        "about": "AIM: Be a good teacher."
       }
     ]
   }
