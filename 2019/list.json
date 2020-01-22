@@ -1,7 +1,7 @@
 {
   "name": "Story Writing Competitions - 2019 Sponsors",
   "amount": 79611,
-  "total": 22,
+  "total": 25,
   "list": {
     "Platinum Sponsors": [
       {
@@ -11,6 +11,7 @@
         "name": "Suresh Garapati",
         "about": ""
       },
+
       {
         "number": 14,
         "amount": 6111,
@@ -18,6 +19,13 @@
         "name": "Niranjan Renati",
         "photo": "14-profile.jpg",
         "about": "<a href='https://www.linkedin.com/in/niran101' target='_blank'>LinkedIN</a>"
+      },
+      {
+        "number": 24,
+        "amount": 6000,
+        "id": "TransferedToBS",
+        "name": "Rama Brahmam Gandikota",
+        "about": ""
       },
       {
         "number": 4,
@@ -55,7 +63,7 @@
         "amount": 5000,
         "id": "GaveToSurya",
         "name": "Chinna Rao Siyyadri",
-        "photo": "20-profile.png",
+        "photo": "20-profile.jpg",
         "about": ""
       },
       {
@@ -122,7 +130,7 @@
         "id": "pay_DyQKosbt2GKf7h",
         "name": "రోహిణి కుమార్ బర్ల",
         "photo": "13-profile.jpg",
-        "about": "Other people's opinions matter only when you don't have clarity.<br /><a href='vizag.tech/rohini'>vizag.tech/rohini</a>"
+        "about": "<a href='vizag.tech/rohini'>vizag.tech/rohini</a>"
       },
       {
         "number": 16,
@@ -160,6 +168,7 @@
         "amount": 1500,
         "id": "GaveToSurya",
         "name": "Rajesh Gandreddi",
+        "photo": "23-profile.jpg",
         "about": ""
       }
     ],
@@ -188,10 +197,10 @@
         "about": ""
       },
       {
-        "number": 24,
+        "number": 25,
         "amount": 765,
         "name": "Rishitha Sriya",
-        "photo": "24-profile.png",
+        "photo": "24-profile.jpg",
         "about": "AIM: Be a good teacher."
       }
     ]
